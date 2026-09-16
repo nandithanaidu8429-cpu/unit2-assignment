@@ -1,1 +1,1 @@
-My new Line in new file
+My first line in file A
